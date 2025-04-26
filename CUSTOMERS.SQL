@@ -9,4 +9,4 @@ create table `users` (
   `state` VARCHAR(2) null,
   `zipCode` INT null,
   primary key (`CustomerID`)
-)
+);
