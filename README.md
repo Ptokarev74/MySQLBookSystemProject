@@ -1,13 +1,16 @@
 # MySQLVBookSystemProject
 
 Group Project 2
+
 Due Date: Friday, May 2nd, 2025 at 11:59 p.m.
+
 Homework Instructions:
 Homework 1 is worth 100 points, and partial credit may be awarded for incomplete or incorrect
 answers. Homework is due on Friday, May, by 11:59 p.m., and should be uploaded to Canvas.
 Ensure your submission includes your teammates’ name and x500 username.
 Late submissions will be accepted until Monday, May 5, 2025, at 11:59 p.m., with a 10-point
 deduction.
+
 Homework Problem:
 Now that you have completed the ER/EER diagram in Group Project 1 and converted it into a
 relational schema, the next step is to implement the database in MySQL. In this phase, you will
