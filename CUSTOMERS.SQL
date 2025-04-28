@@ -1,12 +1,12 @@
-create table `users` (
-  `CustomerID` AUTOINCREMENT not null,
-  `firstName` varchar(255) null,
-  `lastName` varchar(255) null,
-  `phoneNumber` INT not null,
-  `emailID` VARCHAR(255) not null,
-  `street` VARCHAR(255) not null,
-  `city` VARCHAR(255) null,
-  `state` VARCHAR(2) null,
-  `zipCode` INT null,
-  primary key (`CustomerID`)
+CREATE TABLE CUSTOMERS (
+  CustomerID varchar(25) NOT NULL,
+  firstName varchar(25) NOT NULL,
+  lastName varchar(25) NOT NULL,
+  phoneNumber INT NOT NULL,
+  emailID VARCHAR(255) NOT NULL,
+  street VARCHAR(255),
+  city VARCHAR(255),
+  state VARCHAR(2),
+  zipCode INT,
+  PRIMARY KEY (`CustomerID`)
 );
