@@ -1,0 +1,6 @@
+CREATE TABLE Author (
+  AuthorID VARCHAR(25) NOT NULL,
+  firstName VARCHAR(50) NOT NULL,
+  lastName VARCHAR(50) NOT NULL,
+  PRIMARY KEY (AuthorID)
+);
