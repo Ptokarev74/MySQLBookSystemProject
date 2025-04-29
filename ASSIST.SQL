@@ -1,0 +1,6 @@
+CREATE TABLE ASSIST (
+  EmployeeID VARCHAR(25) NOT NULL,
+  CustomerID VARCHAR(25) NOT NULL,
+  FOREIGN KEY (EmployeeID),
+  FOREIGN KEY (CustomerID)
+);
