@@ -27,3 +27,5 @@ repository associated with your team will be reviewed.
 It is your team's responsibility to create a repository with your teammates on GitHub and ensure
 it is a public repository that can be shared with the TAs for grading. Failure to share the
 repository with the TAs will result in a 0 for the assignment.
+-------
+Order of Scripts Executed: 
